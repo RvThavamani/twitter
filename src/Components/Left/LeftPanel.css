@@ -1,0 +1,80 @@
+.LeftPanel {
+  width: 22%;
+  height: 100%;
+}
+.LeftMenu:hover {
+  background-color: #e6e7e8;
+}
+.LeftMenu {
+  display: flex;
+  font-size: x-large;
+  color: rgb(69, 67, 67);
+  padding: 0.47em 0.7em 0.47em 0.5em;
+  cursor: pointer;
+  text-overflow: ellipsis;
+  margin-top: 0.31em;
+  border-radius: 2em;
+  width: max-content;
+  margin-left: 0.3em;
+}
+
+.LeftMenuNav {
+  margin-left: 0.7em;
+}
+.TwitLogo:hover {
+  background-color: #e6e7e8;
+}
+.TwitLogo {
+  font-size: 1.8em;
+  width: max-content;
+  cursor: pointer;
+  padding: 0.3em 0.38em;
+  margin-left: 0.33em;
+  margin-top: 0.2em;
+  border-radius: 50%;
+  color: rgb(7, 161, 250);
+}
+.Tweet:hover {
+  background-color: rgb(2, 140, 220);
+}
+.Tweet {
+  width: max-content;
+  cursor: pointer;
+  background-color: rgb(7, 161, 250);
+  border-radius: 2em;
+  padding: 1.1em 5.7em 1.1em 5.7em;
+  margin-top: 1.5em;
+  margin-left: 0.6em;
+  font-size: medium;
+  color: white;
+  font-weight: bold;
+}
+.ProfileBox:hover {
+  background-color: #e6e7e8;
+}
+.ProfileBox {
+  margin-top: 17.1em;
+  display: flex;
+  width: max-content;
+  padding: 0.6em 0.8em;
+  border-radius: 3em;
+  cursor: pointer;
+  margin-left: 0.2em;
+}
+.ProfileImage {
+  font-size: 2.7em;
+  color: grey;
+}
+.UserDet {
+  margin-left: 0.8em;
+  margin-top: 0.2em;
+}
+.UserId {
+  font-size: medium;
+  color: grey;
+  margin-top: 0.2em;
+}
+.MoreOptn {
+  margin-left: 5.3em;
+  margin-top: 0.9em;
+}
